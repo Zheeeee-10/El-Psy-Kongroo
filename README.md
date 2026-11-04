@@ -12,8 +12,8 @@ El Psy Kongroo.
 - [x] 安装 Git（2.56.0）
 - [x] 生成并配置 SSH 密钥
 - [x] 把仓库 clone 到本地
-- [ ] 第一次 commit
-- [ ] 第一次 push
+- [x] 第一次 commit
+- [x] 第一次 push
 - [ ] 学会开 issue
 - [ ] 学会提 pull request
 
