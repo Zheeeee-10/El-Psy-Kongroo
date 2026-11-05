@@ -14,8 +14,8 @@ El Psy Kongroo.
 - [x] 把仓库 clone 到本地
 - [x] 第一次 commit
 - [x] 第一次 push
-- [ ] 学会开 issue
-- [ ] 学会提 pull request
+- [x] 学会开 issue
+- [x] 学会提 pull request
 
 ## 环境
 
